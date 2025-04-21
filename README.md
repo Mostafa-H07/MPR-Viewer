@@ -1,4 +1,4 @@
-# Advanced Brain Viewer Program! 🎉
+# Advanced MPR Viewer Program! 🎉
 
 Developed a sophisticated medical imaging application for interactive visualization of brain MRI scans (NIFTI format), enabling efficient analysis for medical professionals.
 ## 📌 Core Features:
@@ -22,13 +22,12 @@ The application streamlines neuroimaging analysis workflow while maintaining pro
 https://github.com/user-attachments/assets/250f04fb-285d-4701-b4fe-f8fc0a067adc
 
 ## 🦸‍♂️ Contributors
-- Mostafa Hany
-- Mostafa Hazem
+- Mostafa Hany Mostafa
+- Mostafa Hany Tawfiq
 - Muhammad Nasser
 
 ## 🧾 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Brain-Viewer/blob/43c15e42a9aafc12035254abe77d74a6714705e3/LICENSE)) for details.
 
 ## 📞 Contact
-Email: Mostafahany4705@gmail.com <br>
-LinkedIn: www.linkedin.com/in/mostafahany4705
+Email: mostafa.ibrahim07@eng-st.cu.edu.eg <br>
